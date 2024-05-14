@@ -1,0 +1,12 @@
+---
+
+is_debug: true
+listen:
+  type: port
+  port: 1236
+storage:
+  host: localhost
+  port: 5434
+  database: postgres
+  username: postgres
+  password: password
