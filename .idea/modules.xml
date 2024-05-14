@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/event_service.iml" filepath="$PROJECT_DIR$/.idea/event_service.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/transaction_service.iml" filepath="$PROJECT_DIR$/.idea/transaction_service.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/booking_service.iml" filepath="$PROJECT_DIR$/.idea/booking_service.iml" />
+>>>>>>> 6b01ba33e4b4ca693e0d2f0aec04125f405bccaf
+>>>>>>> 586a3749d20b3f39ff883ef680fb2a3210485f2c
     </modules>
   </component>
 </project>
